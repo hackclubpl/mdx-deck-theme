@@ -1,0 +1,7 @@
+{
+  "name": "@hackclubpl/mdx-deck-theme",
+  "version": "0.0.1",
+  "main": "theme.js",
+  "license": "MIT",
+  "private": true
+}
