@@ -1,13 +1,13 @@
-const blue = '#0af'
-
 export default {
+  googleFont: 'https://fonts.googleapis.com/css2?family=Biryani:wght@400;600&family=Open+Sans:wght@400;600&display=swap',
   fonts: {
-    body: '"Avenir Next", system-ui, sans-serif',
+    heading: '"Biryani"',
+    body: '"Open Sans", system-ui, sans-serif',
   },
   colors: {
     text: '#fff',
-    background: '#111',
-    primary: blue,
+    background: '#E14F50',
+    primary: 'white',
     black: '#000',
   },
   fontWeights: {
